@@ -66,4 +66,10 @@
     <a class="btn btn-line btn-sm" href="https://wa.me/919265384827?text=Hello%20Khushi%20Beauty%20Parlour%2C%20I%20want%20Party%20Makeup%20or%20Mehndi.%20Please%20share%20details%20and%20price.">Book Makeup / Mehndi</a>
   </article>
 
-</div>
+</div>echo "# ---" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/milandabhi3434-collab/---.git
+git push -u origin main
